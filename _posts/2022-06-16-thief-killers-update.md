@@ -1,8 +1,7 @@
 ---
-layout: default
-title: Royal Thief Killers
-parent: TOR Alliance
-nav_order: 5
+layout: post
+title: Royal Thieves killers list (update)
+categories: Thieves
 ---
 
 _updated June 16th, 2022: remove DarkLord and Kaz_
