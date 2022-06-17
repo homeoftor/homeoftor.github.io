@@ -1,10 +1,8 @@
 ---
-layout: default
-title: Rules
-parent: TOR Alliance
-nav_order: 2
+layout: post
+title: Alliance Rules (update regarding R4s)
+categories: Rules
 ---
-# TOR Alliance Rules
 
 _revised on June 17th, 2022: insert rule#4 about R4's authority_
 
