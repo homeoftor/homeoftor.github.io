@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Mid-Summer event: Cleopatra bad, Tych wheel good!
+title: Mid-Summer event - Cleopatra bad, Tych wheel good!
 categories: Events
 ---
 
