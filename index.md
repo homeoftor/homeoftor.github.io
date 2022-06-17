@@ -3,6 +3,9 @@ layout: default
 title: News
 nav_order: 1
 ---
+
+Quote of the Day: _Bubble or Burn!_ -- KAZ
+
 ## Latest News
 
 <ul class="posts">
