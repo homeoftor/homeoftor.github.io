@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Hive Map
+title: Undead Invasion
 parent: Event Guides
 nav_order: 1
 ---
