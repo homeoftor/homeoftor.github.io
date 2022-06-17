@@ -7,7 +7,8 @@ categories: Events
 Good morning TOR family!
 
 The undead invasion event will start Saturday 17:00 server time (
-[What time is 1700Z in my timezone? click here to see!](http://time.unitarium.com/utc/1700)).
+[What time is 1700Z in my timezone? click here to see!](http://time.unitarium.com/utc/1700)
+).
 A few tips to remember:
 
 1. send all your siege machines out to gather or hide them in your bunker. Else you will have
