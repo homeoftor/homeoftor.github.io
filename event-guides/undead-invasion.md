@@ -37,7 +37,7 @@ Ask on Alliance Chat if you are not sure what they mean.
 * Once your kill rate on a wave is strictly less than 100%, share your defense
 report on AC chat to get reinforcements
 
-### Special trick for wave 5, 10, and 20
+#### Special trick for wave 5, 10, and 20
 
 Waves 5, 10 and 20 are made only of ground troops! you can optimize by:
 * Set Monarch Gear to full Cavalry attack/defense/HP (best troops against ground)
