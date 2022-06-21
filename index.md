@@ -4,7 +4,7 @@ title: News
 nav_order: 1
 ---
 
-Quote of the Day: _Bubble or Burn!_ -- KAZ
+Quote of the Day: _Smash that Help All button!!!_ -- KAZ
 
 ## Latest News
 
