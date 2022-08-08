@@ -1,3 +1,10 @@
+---
+layout: default
+title: Server VS Server
+parent: Event Guides
+nav_order: 2
+---
+
 SvS is 48 hours war between two servers (us, and the enemy!), played every two weeks.
 
 essential parts of SvS:
@@ -55,6 +62,11 @@ Doing the same on the enemy server brings more points but is riskier, but can st
 - you use the world map to find a "safe" location before teleporting on the enemy server (away from enemy hives,
 sparsely populated with enemy cities or mostly abandoned, a good concentration of monsters and fairies)
 - you reduce your potential damage by bunkering/ghosting your troops and removing your defense generals
+- you bookmark targets before teleporting and use the free 5 minutes bubble (that you can not extend) to
+kill as many targets as you can, and teleport back once the bubble drops
+
+IMPORTANT: always bookmark the spot you want to teleport back to so you can very quickly teleport back
+when in need
 
 
 ## Share intelligence (everyone)
