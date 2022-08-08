@@ -16,6 +16,9 @@ SvS is very important because:
 1. you get to fight as a united server against a whole server, think KE on steroids!
 2. there are very handsome rewards (gems!) for those who participate
 
+Note: a big thank you to Foolio and Angry Bird who spent a lot of time explaining those tactics and tips,
+and answering all my questions... I am just the writer!
+
 
 # The Purge
 
